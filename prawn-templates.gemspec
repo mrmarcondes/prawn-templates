@@ -20,7 +20,7 @@ Gem::Specification.new do |spec|
     'gregory.t.brown@gmail.com', 'brad@bradediger.com', 'dnelson@bluejade.com',
     'greenberg@entryway.net', 'jimmy@deefa.com', 'b.vogel@buddyandselly.com'
   ]
-  spec.add_dependency('pdf-reader', '~> 2.0')
+  spec.add_dependency('pdf-reader', '~> 1.1')
   spec.add_dependency('prawn', '~> 1.3')
   spec.add_development_dependency('pdf-inspector', '~> 1.3')
   spec.add_development_dependency('rspec', '~> 3.0')
